@@ -18,3 +18,9 @@ While creating the app covered:
 ## References:
 
 - [Figma Design](https://www.figma.com/file/bUGIPys15E78w9bs1l4tgS/HooBank?node-id=310%3A485) for reference
+
+## Screenshots
+
+<img src="./screenshots/web_version.png" alt="web_version" width="600px" />
+<br/>
+<img src="./screenshots/mobile_version.png" alt="mobile_version" width="300px" />
